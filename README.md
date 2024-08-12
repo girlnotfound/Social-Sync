@@ -2,7 +2,7 @@
 
 Social-Sync is the back end for your social network application! Built with Express.js, this API uses Mongoose to interact with a MongoDB database, making it ideal for handling large amounts of unstructured data in a NoSQL environment.
 
-SocialSync's powerful and flexible API has got your back. Easily manage users, posts, reactions, and friendships - all in one place!
+Social-Sync's powerful and flexible API has got your back. Easily manage users, posts, reactions, and friendships - all in one place!
 
 - Hook up to MongoDB in a snap. Just add your database info to the connection.js file.
 
@@ -42,7 +42,9 @@ To install Social-Sync:
 
 [Link to Walk Through Video](https://app.screencastify.com/v3/watch/djO2OmIYtzFYhp4NLMjb)
 
-![Screenshot of Social-Sync]()
+![Screenshot of Social-Sync 'Users' Test on Insomnia](./images/Social-Sync-InsomniaUsersTest.png)
+
+![Screenshot of Social-Sync 'Thoughts' Test on Insomnia](./images/Social-Sync-InsomniaThoughtsTest.png)
 
 ## Credits
 

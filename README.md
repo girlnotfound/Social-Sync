@@ -40,7 +40,7 @@ To install Social-Sync:
 
 - Start the application, in the terminal run the command: `npm run dev`
 
-[Link to Walk Through Video]()
+[Link to Walk Through Video](https://app.screencastify.com/v3/watch/djO2OmIYtzFYhp4NLMjb)
 
 ![Screenshot of Social-Sync]()
 
